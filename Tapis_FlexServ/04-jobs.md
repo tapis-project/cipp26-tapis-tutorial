@@ -160,18 +160,6 @@ Replace the default JSON in the editor with your specific configuration. Copy th
         "description": "Set the slurm job name to be identical to the Tapis job name.",
         "include": true,
         "name": "Slurm job name"
-      },
-      {
-        "arg": "-A << allocation >>",
-        "description": "Set the TACC resource allocation for the job.",
-        "include": true,
-        "name": "TACC Resource Allocation"
-      },
-      {
-        "arg": "--reservation << reservation >>",
-        "description": "Set the reservation name for the job.",
-        "include": false,
-        "name": "Reservation Name"
       }
     ],
     "archiveFilter": {
@@ -240,6 +228,14 @@ Replace the default JSON in the editor with your specific configuration. Copy th
         "description": "Directory path for Public models. This applies to the $PUB_MODEL_REPO variable used in the app, it will be replaced with this path when the job is running. We will have some commonly used models stored in this directory for users to use, and you can also upload your models to this directory if you want to share them with other users. Similar to PRI_MODEL_HOST, you can specify the model name (which is the subdirectory name under this directory) as the input to the app to use those models.",
         "inputMode": "INCLUDE_BY_DEFAULT",
         "notes": {}
+        "name": "Reservation Name",
+        "arg": "--reservation GHTapis+Guam"
+      },
+      {
+        "name": "TACC Resource Allocation",
+        "description": "The TACC Allocation associated with this job execution",
+        "include": true,
+        "arg": "-A CDA24015"
       }
     ]
   }
