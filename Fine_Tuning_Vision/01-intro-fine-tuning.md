@@ -111,7 +111,7 @@ Paste the job JSON provided below into the editor and click `Submit`.
 ``` json
 {
     "name": "ultralytics-fine-job",
-    "appId": "ultralytics-fine-tune",
+    "appId": "vista",
     "appVersion": "0.1",
     "execSystemId": "vista-test-nairr",
     "parameterSet": {
