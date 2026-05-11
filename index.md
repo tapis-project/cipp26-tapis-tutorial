@@ -2,7 +2,7 @@
 
 ## CIPP 2026 Tutorial Schedule
 
-[Slides for this tutorial are here.](https://docs.google.com/presentation/d/1BVLnUbyiWjsaS33zMshW3TXqtfvv6zGklaCNBeX7Go0/edit?usp=sharing)
+[Slides for this tutorial are here.](https://docs.google.com/presentation/d/1mdUT5kh-drdq1qRSLPwtu46ko-cetYf3IpWPzl0sKyk/edit?slide=id.p1#slide=id.p1)
 
 <style>
 img {
