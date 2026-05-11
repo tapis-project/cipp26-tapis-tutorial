@@ -9,9 +9,9 @@ img {
 
 ## Step 2.1: Logging In
 
-Login to [https://public.tapis.io](https://public.tapis.io). Visit the site and press the "Proceed to login" area.
+Login to [https://cipp.tapis.io](https://cipp.tapis.io). Visit the site and press the "Proceed to login" area.
 
-[![Proceed to Login](/tutorials/assets/demo/login-proceed.png){:style="max-width:85%;"}](https://public.tapis.io){:target="_blank"}
+[![Proceed to Login](/tutorials/assets/demo/login-proceed.png){:style="max-width:85%;"}](https://cipp.tapis.io){:target="_blank"}
 
 Once you click, you will be redirected to your institute's authentication.
 
