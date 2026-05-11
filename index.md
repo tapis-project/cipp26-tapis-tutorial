@@ -35,7 +35,7 @@ img {
 | 2:45-3:00 PM | 30 min | Coffee Break |
 | 3:00-3:15 PM  | 30 min | (Lecture + Hands-on) [Fine-tuning the Vision Model with Ultralytics and Tapis](./Fine_Tuning_Vision/01-intro-fine-tuning.md) |
 | 3:15-3:45 PM | 30 min | (Hands-on) [Re-evaluating Using best.pt within Jupyter](./Fine_Tuning_Vision/02-evaluation.md) |
-| 3:15-3:45 PM | 30 min | (Lecture)[Tour of the CI Pacific Portal]
+| 3:45-4:00 PM | 30 min | (Lecture)[Tour of the CI Pacific Portal]
 
 
 The resources you will be using today are provided by funding from the National Science Foundation.
