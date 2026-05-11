@@ -51,7 +51,7 @@ For more information about applications and the Applications service please see 
 
 ## Getting Started
 
-Here we review how to create an application and how to retrieve application details. In the examples below we assume you are using Tapis UI ``https://public.tapis.io`` and that you have authenticated using your TACC credentials and token.
+Here we review how to create an application and how to retrieve application details. In the examples below we assume you are using Tapis UI ``https://cipp.tapis.io`` and that you have authenticated using your TACC credentials and token.
 
 ### Creating a FlexServ Application
 
