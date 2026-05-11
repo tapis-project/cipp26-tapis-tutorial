@@ -24,6 +24,7 @@ The following JSON represents the application definition used to register the fi
         "execSystemExecDir": "${JobWorkingDir}/jobs/${JobUUID}",
         "execSystemInputDir": "${JobWorkingDir}/jobs/${JobUUID}/data",
         "execSystemOutputDir": "${JobWorkingDir}/jobs/${JobUUID}/output",
+        "archiveSystemDir": "HOST_EVAL($WORK)/${JobUUID}",
         "parameterSet": {
             "containerArgs": [
                 {
