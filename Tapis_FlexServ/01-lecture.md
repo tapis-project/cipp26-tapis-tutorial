@@ -1,6 +1,6 @@
 ## Section 3: Classes of AI Models, Commercial Registries and Flexserv
 
-[Lecture Slides](https://docs.google.com/presentation/d/1BVLnUbyiWjsaS33zMshW3TXqtfvv6zGklaCNBeX7Go0/edit?slide=id.g3cd6a51b6a2_0_26#slide=id.g3cd6a51b6a2_0_26)
+[Lecture Slides](https://docs.google.com/presentation/d/1mdUT5kh-drdq1qRSLPwtu46ko-cetYf3IpWPzl0sKyk/edit?slide=id.g3cd6a51b6a2_0_26#slide=id.g3cd6a51b6a2_0_26)
 
 
 ### Summary of Topics 
