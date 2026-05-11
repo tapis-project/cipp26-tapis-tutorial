@@ -7,9 +7,9 @@ img {
 
 # Hands-on TapisUI Tutorial
 
-Login to [https://training.tapis.io](https://training.tapis.io). Use the username and password provided to you to authenticate.
+Login to [https://cipp.tapis.io](https://cipp.tapis.io). Use the username and password provided to you to authenticate.
 
-<a href="https://training.tapis.io" target="_blank">
+<a href="https://cipp.tapis.io" target="_blank">
 <img src="/tutorials/assets/demo/login-tapis.png" style="max-width:70%;">
 </a>
 

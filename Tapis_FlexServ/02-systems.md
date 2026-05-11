@@ -45,7 +45,7 @@ For more information about systems and the Systems service please see [Tapis Sys
 ## Getting Started
 
 Here we review how to create a system and how to retrieve system details. In the examples below we assume you are using
-the tenant named ``training`` with a base URL of ``https://training.tapis.io`` and that you have authenticated using ``tapipy``.
+the tenant named ``training`` with a base URL of ``https://cipp.tapis.io`` and that you have authenticated using ``tapipy``.
 During the hands-on portion of the tutorial you will create two systems, one for a VM and one for an HPC cluster.
 
 ### Creating a System
@@ -69,7 +69,7 @@ system_def = {
 ``` python
  import json
  from tapipy.tapis import Tapis
- t = Tapis(base_url='https://training.tapis.io', username='<userid>', password='************')
+ t = Tapis(base_url='https://cipp.tapis.io', username='<userid>', password='************')
  t.systems.createSystem(**system_def)
 ```
 

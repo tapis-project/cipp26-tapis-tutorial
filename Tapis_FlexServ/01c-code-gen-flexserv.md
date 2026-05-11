@@ -1,6 +1,6 @@
 ## Section 7: Prompt Engineering and Generating Image Detection Code
 
-[Lecture Slides](https://docs.google.com/presentation/d/1BVLnUbyiWjsaS33zMshW3TXqtfvv6zGklaCNBeX7Go0/edit?slide=id.g3cdba15a02d_6_191#slide=id.g3cdba15a02d_6_191)
+[Lecture Slides](https://docs.google.com/presentation/d/1mdUT5kh-drdq1qRSLPwtu46ko-cetYf3IpWPzl0sKyk/edit?slide=id.g3cdba15a02d_6_191#slide=id.g3cdba15a02d_6_191)
 
 ### FlexServ API Prompt: YOLO Evaluation Script Generator
 
