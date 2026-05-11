@@ -13,7 +13,7 @@ The following JSON represents a standard request to start a fine-tuning job:
     "name": "ultralytics-fine-job",
     "appId": "ultralytics-fine-tune",
     "appVersion": "0.1",
-    "execSystemId": "vista-test-nairr",
+    "execSystemId": "vista",
     "parameterSet": {
       "schedulerOptions": [ 
           { "name": "Allocation", "arg": "-A CDA24015" }, 
@@ -35,7 +35,7 @@ The following parameters are used to define the specific execution requirements 
 ### 1. Identification
 * **`name`**: A user-defined label for the job. This helps you identify the run in your job history.
 * **`appId` & `appVersion`**: These link the job to the specific `ultralytics-fine-tune` app definition created earlier.
-* **`execSystemId`**: Specifies the HPC resource where the job will run (e.g., `vista-test-nairr`).
+* **`execSystemId`**: Specifies the HPC resource where the job will run (e.g., `vista`).
 
 ### 2. Scheduler Options
 These are specific flags passed to the Slurm scheduler on the Vista system:

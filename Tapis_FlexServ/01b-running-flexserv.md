@@ -261,16 +261,18 @@ The following app runs the FlexServ on TACC's Vista System. For the purposes of 
 </div> -->
 
 
-In the Tapis UI, you should navigate to `Apps` and you should see the Flex Server application already registered in your Tapis UI: **FlexServ-vista-nairr version 1.4.0**
-![FlexServ Application](/tutorials/images/Flexserv_app.png)
+In the Tapis UI, you should navigate to `Apps` and you should see the Flex Server application already registered in your Tapis UI: **FlexServ-1.4.0**
+<!-- ![FlexServ Application](/tutorials/images/Flexserv_app.png) -->
 
 ### Step 4.1.3: Submit FlexServ Job using TAPIS UI
 
 **1. Initiate Submission**
 
-In the Tapis UI, navigate to the application **FlexServ-vista-nairr**, click the Submit Job button, and select **SUBMIT WITH JSON**.
+In the Tapis UI, navigate to the application **FlexServ-1.4.0**, click the Submit Job button, and select **Use Guided Job Launcher**.
 
-![Step 1a: Select Submit with JSON](/tutorials/images/Step1-Submitjobbutton-flexserv.png)
+Follow the prompts in the job launcher wizard. You will only need to change two values. The system (`vista`) and the queue (`gh`)
+
+<!-- ![Step 1a: Select Submit with JSON](/tutorials/images/Step1-Submitjobbutton-flexserv.png)
 
 ![Step 1b: Select Submit with JSON](/tutorials/images/Step1-submit-with-json.png)
 
@@ -278,12 +280,12 @@ In the Tapis UI, navigate to the application **FlexServ-vista-nairr**, click the
 
 Replace the default JSON in the editor with your job definition. Copy the json below in the editor.
 
-![Step 2: Job Json](/tutorials/images/Step2-paste-json.png)
+![Step 2: Job Json](/tutorials/images/Step2-paste-json.png) -->
 
 ``` json
 {
-  "name": "tap_flexserv_vista_test",
-  "appId": "FlexServ-vista-nairr",
+  "name": "flexserv-1.4.0",
+  "appId": "FlexServ-1.4.0",
   "appVersion": "1.4.0",
   "execSystemId": "vista-test-nairr",
   "tenant": "public",
@@ -367,10 +369,10 @@ Replace the default JSON in the editor with your job definition. Copy the json b
 ```
 {:.scrollable}
 
-**3. Submit Job**
+<!-- **3. Submit Job**
 
 Once the job definition is pasted click on Submit job
-![Step 3: Job Submit](/tutorials/images/Step3-submitjob.png)
+![Step 3: Job Submit](/tutorials/images/Step3-submitjob.png) -->
 
 
 **4. View Job**
