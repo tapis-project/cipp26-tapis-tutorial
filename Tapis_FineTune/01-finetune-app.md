@@ -19,6 +19,8 @@ The following JSON represents the application definition used to register the fi
     "runtime": "SINGULARITY",
     "containerImage": "/work/projects/aci/cic/apps/ultralytics-fine-tune/Ultralytics_FT_Tapis_app.sif",
     "jobAttributes": {
+        "execSystemId": "vista",
+        "execSystemLogicalQueue": "gh",
         "execSystemExecDir": "${JobWorkingDir}/jobs/${JobUUID}",
         "execSystemInputDir": "${JobWorkingDir}/jobs/${JobUUID}/data",
         "execSystemOutputDir": "${JobWorkingDir}/jobs/${JobUUID}/output",
