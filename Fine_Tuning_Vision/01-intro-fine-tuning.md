@@ -113,7 +113,7 @@ Paste the job JSON provided below into the editor and click `Submit`.
     "name": "ultralytics-fine-job",
     "appId": "vista",
     "appVersion": "0.1",
-    "execSystemId": "vista-test-nairr",
+    "execSystemId": "vista",
     "parameterSet": {
       "schedulerOptions": [ 
           { "name": "Allocation", "arg": "-A CDA24015" }, 

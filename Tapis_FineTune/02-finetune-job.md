@@ -16,8 +16,8 @@ The following JSON represents a standard request to start a fine-tuning job:
     "execSystemId": "vista-test-nairr",
     "parameterSet": {
       "schedulerOptions": [ 
-          { "name": "Allocation", "arg": "-A <insert here>" }, 
-          { "name": "Reservation", "arg": "--reservation GHTapis+Nairr" }
+          { "name": "Allocation", "arg": "-A CDA24015" }, 
+          { "name": "Reservation", "arg": "--reservation GHTapis+Guam" }
       ],
       "envVariables": [
           {
