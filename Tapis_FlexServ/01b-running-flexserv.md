@@ -353,13 +353,13 @@ Replace the default JSON in the editor with your job definition. Copy the json b
       },
       {
         "name": "Reservation Name",
-        "arg": "--reservation GHTapis+Nairr"
+        "arg": "--reservation GHTapis+Guam"
       },
       {
         "name": "TACC Resource Allocation",
         "description": "The TACC Allocation associated with this job execution",
         "include": true,
-        "arg": "-A TRA24006"
+        "arg": "-A CDA24015"
       }
     ]
   }

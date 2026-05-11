@@ -116,8 +116,8 @@ Paste the job JSON provided below into the editor and click `Submit`.
     "execSystemId": "vista-test-nairr",
     "parameterSet": {
       "schedulerOptions": [ 
-          { "name": "Allocation", "arg": "-A TRA24006" }, 
-          { "name": "Reservation", "arg": "--reservation GHTapis+Nairr" }
+          { "name": "Allocation", "arg": "-A CDA24015" }, 
+          { "name": "Reservation", "arg": "--reservation GHTapis+Guam" }
       ],
       "envVariables": [
           {
